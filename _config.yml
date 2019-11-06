@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bin Qian"
-  avatar           : "BIN.jpg"
+  avatar           : "BIN_720_720.png"
   bio              : "Phd student in Newcastle University"
   location         : "Newcastle Upon Tyne"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Bin-Qian"
+  github           : "Bin-Qian"
   google_plus      :
   keybase          :
   instagram        :
