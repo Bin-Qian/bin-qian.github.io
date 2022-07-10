@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bin-Qian"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Bin-Qian"
 description              : &description "personal description"
